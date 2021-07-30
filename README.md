@@ -4,7 +4,7 @@ I am Rachel L. and thanks for visiting my GitHub page!
 
 🌿 Looking for a full-time Data Engineer/Data Scientist position
 
-🌿 Here are the ways to contact me:
+🌿 Please contact me through...
 
     - email: rachel318318@gmail.com
 

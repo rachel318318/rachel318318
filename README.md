@@ -1,8 +1,8 @@
 I am Rachel L. and thanks for visiting my GitHub page!
 
-🌿 Currently studying Data Science & Machine Learning
+🌿 Currently studying Data Science & Deep Learning
 
-🌿 Looking for a full-time Data Engineer/Data Scientist position
+🌿 Looking for a full-time DL Engineer position
 
 🌿 Please contact me through...
 

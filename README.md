@@ -8,7 +8,7 @@ I am Rachel L. and thanks for visiting my GitHub page!
 
     - email: rachel318318@gmail.com
 
-    - LinkedIn: https://www.linkedin.com/in/rachel318/
+    - LinkedIn: linkedin.com/in/rachel318
 
 <!---
 rachel318318/rachel318318 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

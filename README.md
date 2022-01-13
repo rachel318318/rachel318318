@@ -1,16 +1,12 @@
-I am Rachel L. and thanks for visiting my GitHub page!
+### 👩‍💻 Rachel Lee
 
-🌿 Currently studying Data Science & Deep Learning
+Hi! This is Rachel Lee, and I'm into data analysis and data science. \
+I enjoy figuring out how things happen and communicating through data. \
 
-🌿 Looking for a full-time DL Engineer position
+### 💁‍♀️ Resume
 
-🌿 Please contact me through...
+Please check out [here](https://rachel318.notion.site/Rachel-Lee-Data-Scientist-911ccd0a2cad4026b358bdbea06d5d04) for more detailed experience!
 
-    - email: rachel318318@gmail.com
+### 📬 Contact
 
-    - LinkedIn: linkedin.com/in/rachel318
-
-<!---
-rachel318318/rachel318318 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Email: rachel318318@gmail.com

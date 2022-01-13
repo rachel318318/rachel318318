@@ -1,7 +1,7 @@
 ### 👩‍💻 Rachel Lee
 
 Hi! This is Rachel Lee, and I'm into data analysis and data science. \
-I enjoy figuring out how things happen and communicating through data. \
+I enjoy figuring out how things happen and communicating through data.
 
 ### 💁‍♀️ Resume
 
